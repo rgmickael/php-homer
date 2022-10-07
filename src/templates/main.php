@@ -29,6 +29,7 @@
 
 <main class="container">
     <?php if (isset($content)) {
+        //display all content
         echo $content;
     } else { ?>
         <div class="jumbotron">
