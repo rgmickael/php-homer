@@ -30,6 +30,8 @@
 			?>
 		</div>
 
-		<button type="submit" class="btn btn-lg btn-primary bt-block">Login</button>
+		<br>
+
+		<button type="submit" class="btn btn-lg btn-primary btn-block">Login</button>
 	</form>
 </div>
